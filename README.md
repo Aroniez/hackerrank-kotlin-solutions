@@ -3,7 +3,7 @@ Kotlin playground :fire:
 Welcome to koltin playground where we intent to learn more about kotlin by solving challenges.
 
 ### Challenges
-Challenges solved in this repo are found in [Installation Guide](https://www.hackerrank.com)
+Challenges solved in this repo are found in [Hackerrank](https://www.hackerrank.com)
 
 ### Issues
 Please report bugs using the [GitHub issue tracker](https://github.com/Aroniez/hackerrank-kotlin-solutions/issues)
