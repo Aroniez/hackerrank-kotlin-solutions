@@ -14,6 +14,11 @@ Here is the list of challenges to solve. Solved challenges are checked.
   - [ ] Left Rotation
 - [ ] Interview Preparations Kit
   - [ ] Arrays
+    - [ ] 2D Array DS
+    - [ ] Left Rotation
+    - [ ] New Year Chaos
+    - [ ] Minimum Swaps 2
+    - [ ] Array Manipulation
   - [ ] Dictionaries and Hashmaps
   - [ ] Dynamic Programming
   - [ ] Graphs
@@ -23,6 +28,9 @@ Here is the list of challenges to solve. Solved challenges are checked.
   - [ ] Recursion and Backtracking
   - [ ] Search
   - [ ] Sorting
+    - [ ] Mark and Toys
+    - [ ] Comparator
+    - [ ] Merge Sort: Counting Inversions
   - [ ] Stack and Queues
   - [ ] String Manipulation
   - [ ] Trees
