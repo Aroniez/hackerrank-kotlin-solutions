@@ -13,7 +13,7 @@ Here is the list of challenges to solve. Solved are marked.
 - [x] Data Structures
   - [x] Left Rotation
 - [x] Interview Preparations Kit
-  - [] Arrays
+    [x] Arrays
   - [x] Dictionaries and Hashmaps
   - [x] Dynamic Programming
   - [x] Graphs
