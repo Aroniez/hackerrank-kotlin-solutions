@@ -6,7 +6,7 @@ Welcome to koltin playground where we intent to learn more about kotlin by solvi
 Challenges solved in this repo are found in [Hackerrank](https://www.hackerrank.com)
 
 ## Checklist
-Here is the list of challenges to solve. Solved are marked.
+Here is the list of challenges to solve. Solved challenges are checked.
 
 - [ ] Algorithms
   - [ ] Plus Minus
@@ -38,8 +38,10 @@ Please report bugs using the [GitHub issue tracker](https://github.com/Aroniez/h
 ### Stay in touch
 - [Follow me on Twitter](https://twitter.com/Aroniez/)
 
-## Contributing
-Feel free to contribute in any way you can
+### Contributing
+Feel free to contribute in any way you can. Be sure to check the challenge you solved in the list above. 
+- [ ] unsolved
+- [x] solved
 
 ## Built With :heart:
 - Kotlin
