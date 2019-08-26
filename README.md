@@ -5,6 +5,33 @@ Welcome to koltin playground where we intent to learn more about kotlin by solvi
 ### Challenges
 Challenges solved in this repo are found in [Hackerrank](https://www.hackerrank.com)
 
+## Checklist
+Here is the list of challenges to solve. Solved are marked.
+
+- [x] Algorithms
+  - [x] Plus Minus
+- [x] Data Structures
+  - [x] Left Rotation
+- [x] Interview Preparations Kit
+  - [x] Arrays
+  - [x] Dictionaries and Hashmaps
+  - [x] Dynamic Programming
+  - [x] Graphs
+  - [x] Greedy Algorithms
+  - [x] Linked Lists
+  - [x] Miscellaneous
+  - [x] Recursion and Backtracking
+  - [x] Search
+  - [x] Sorting
+  - [x] Stack and Queues
+  - [x] String Manipulation
+  - [x] Trees
+  - [x] Warm-up Challenges
+- [x] Mathematics
+  - [x] Maximum Draws
+- [x] Problem Solving
+  - [x] Plus Minus
+
 ### Issues
 Please report bugs using the [GitHub issue tracker](https://github.com/Aroniez/hackerrank-kotlin-solutions/issues)
 
