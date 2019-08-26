@@ -8,29 +8,29 @@ Challenges solved in this repo are found in [Hackerrank](https://www.hackerrank.
 ## Checklist
 Here is the list of challenges to solve. Solved are marked.
 
-- [x] Algorithms
-  - [x] Plus Minus
-- [x] Data Structures
-  - [x] Left Rotation
-- [x] Interview Preparations Kit
-    [x] Arrays
-  - [x] Dictionaries and Hashmaps
-  - [x] Dynamic Programming
-  - [x] Graphs
-  - [x] Greedy Algorithms
-  - [x] Linked Lists
-  - [x] Miscellaneous
-  - [x] Recursion and Backtracking
-  - [x] Search
-  - [x] Sorting
-  - [x] Stack and Queues
-  - [x] String Manipulation
-  - [x] Trees
-  - [x] Warm-up Challenges
-- [x] Mathematics
-  - [x] Maximum Draws
-- [x] Problem Solving
-  - [x] Plus Minus
+- [ ] Algorithms
+  - [ ] Plus Minus
+- [ ] Data Structures
+  - [ ] Left Rotation
+- [ ] Interview Preparations Kit
+  - [ ] Arrays
+  - [ ] Dictionaries and Hashmaps
+  - [ ] Dynamic Programming
+  - [ ] Graphs
+  - [ ] Greedy Algorithms
+  - [ ] Linked Lists
+  - [ ] Miscellaneous
+  - [ ] Recursion and Backtracking
+  - [ ] Search
+  - [ ] Sorting
+  - [ ] Stack and Queues
+  - [ ] String Manipulation
+  - [ ] Trees
+  - [ ] Warm-up Challenges
+- [ ] Mathematics
+  - [ ] Maximum Draws
+- [ ] Problem Solving
+  - [ ] Plus Minus
 
 ### Issues
 Please report bugs using the [GitHub issue tracker](https://github.com/Aroniez/hackerrank-kotlin-solutions/issues)
