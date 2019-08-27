@@ -10,6 +10,7 @@ Here is the list of challenges to solve. Solved challenges are checked.
 
 - [ ] Algorithms
   - [ ] Plus Minus
+  - [x] [Equalize The Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem)
 - [ ] Data Structures
   - [ ] Left Rotation
 - [ ] Interview Preparations Kit
