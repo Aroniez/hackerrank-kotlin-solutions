@@ -11,6 +11,7 @@ Here is the list of challenges to solve. Solved challenges are checked.
 - [ ] Algorithms
   - [ ] Plus Minus
   - [x] [Equalize The Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem)
+       Solution file ==> [(EqalizeTheArray.kt)](https://github.com/Aroniez/hackerrank-kotlin-solutions/blob/master/src/algorithms/EqualizeTheArray.kt)
 - [ ] Data Structures
   - [ ] Left Rotation
 - [ ] Interview Preparations Kit
