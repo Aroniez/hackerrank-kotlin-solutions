@@ -2,6 +2,9 @@ package algorithms
 
 import java.util.*
 
+/***
+ * Challenge >===> https://www.hackerrank.com/challenges/equality-in-a-array/problem
+ * */
 fun equalizeArray(arr: Array<Int>): Int {
     //Group the elements by number of occurrence
     val numbersByElement = arr.groupingBy { it }.eachCount()
@@ -9,15 +12,14 @@ fun equalizeArray(arr: Array<Int>): Int {
     //then find the most occurring element
     val mostOccurringKey = numbersByElement.maxBy { it.value }?.key
 
-    var deletions = 0
     //finally loop through other elements occurrence count while adding them to counter
+    var deletions = 0
     for (items in numbersByElement) {
         if (items.key != mostOccurringKey) {
             deletions += items.value
         }
     }
     return deletions
-
 }
 
 fun main(args: Array<String>) {

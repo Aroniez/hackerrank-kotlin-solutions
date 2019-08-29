@@ -9,6 +9,16 @@ Challenges solved in this repo are found in [Hackerrank](https://www.hackerrank.
 Here is the list of challenges to solve. Solved challenges are checked.
 
 - [ ] Algorithms
+  - [ ] Implementation
+    - [ ] Easy
+        - [x] Challenge: [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)
+                     | Solution: [(ElectronicsShop.kt)](https://github.com/Aroniez/hackerrank-kotlin-solutions/blob/master/src/algorithms/implementation/easy/ElectronicsShop.kt)
+    - [ ] Medium
+        - [ ] Challenge: [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming/problem)
+                                     | Solution: [(FormingAMagicSquare.kt)](https://github.com/Aroniez/hackerrank-kotlin-solutions/blob/master/src/algorithms/implementation/medium/FormingAMagicSquare.kt)
+    - [ ] Hard
+        - [ ] Challenge: [Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem)
+                             | Solution: [(MatrixLayerRotation.kt)](https://github.com/Aroniez/hackerrank-kotlin-solutions/blob/master/src/algorithms/implementation/hard/MatrixLayerRotation.kt)
   - [ ] Plus Minus
   - [x] Challenge: [Equalize The Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem)
        | Solution: [(EqalizeTheArray.kt)](https://github.com/Aroniez/hackerrank-kotlin-solutions/blob/master/src/algorithms/EqualizeTheArray.kt)
